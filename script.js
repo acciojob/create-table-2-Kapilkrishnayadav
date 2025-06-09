@@ -1,7 +1,7 @@
  function createTable()
             {
-                let n=prompt("Enter rows");
-                let m=prompt("Enter columns");
+                let n=prompt("Input number of rows");
+                let m=prompt("Input number of columns");
                 
                 let str="";
                  for(let i=0;i<n;i++)
